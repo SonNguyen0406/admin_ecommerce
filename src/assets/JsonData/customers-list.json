@@ -1,0 +1,20 @@
+[{"id":1,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":2,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":3,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":4,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":5,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":6,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":7,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":8,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":9,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":10,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":11,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":12,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":13,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":14,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":15,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":16,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456},
+{"id":17,"name":"Nguyen Van Anh","email":"anh123@gmail.com","location":"Ha Noi","phone":"0123456789","total_spend":"$123","total_orders":123},
+{"id":18,"name":"Nguyen Thi Hoa","email":"hoahoe@gmail.com","location":"Ho Chi Minh","phone":"0123456789","total_spend":"$764","total_orders":456}
+
+]
